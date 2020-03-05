@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="search_some_movies">Search Some Movies...</string>
+</resources>
